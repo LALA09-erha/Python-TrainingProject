@@ -30,7 +30,7 @@ class Khs{
 
     };
 
-    int nilai;
+    string nilai;
 };
 
 class Mahasiswa {

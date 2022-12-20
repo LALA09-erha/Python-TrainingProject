@@ -1,0 +1,70 @@
+1. Input Data Khs
+2. Show Data Khs
+3. Update Data Khs
+4. Delete Data KHS
+5. Exit
+Pilih : 1
+1. Input Data Mahasiswa + khs
+2. Input Data Khs saja
+Pilih : 1
+Input Nim : 01  
+Input Name : fikri
+Input Data Mahasiswa Berhasil
+Input Berapa Jumlah KHS : 1  
+Input Matkul : PBO
+Input Nilai : A
+Input Data KHS Berhasil 
+
+1. Input Data Khs       
+2. Show Data Khs        
+3. Update Data Khs      
+4. Delete Data KHS      
+5. Exit
+Pilih : 2
+
+Data Mahasiswa : 
+Nim : 01
+Name : fikri
+Course : PBO
+Grade : A
+-----------------------------------
+1. Input Data Khs
+2. Show Data Khs
+3. Update Data Khs
+4. Delete Data KHS
+5. Exit
+Pilih : 3
+1. Update Data Mahasiswa
+2. Update Data KHS
+Pilih : 1
+Input Nim : 01
+Anda Dapat Merubah Nama Mahasiswa
+Input Name : CACA
+Update Data Mahasiswa Berhasil 
+
+1. Input Data Khs
+2. Show Data Khs
+3. Update Data Khs
+4. Delete Data KHS
+5. Exit
+Pilih : 4
+1. Delete Data Mahasiswa
+2. Delete Data KHS
+Pilih : 1
+Input Nim : 01
+Delete Data Mahasiswa Berhasil 
+
+1. Input Data Khs
+2. Show Data Khs
+3. Update Data Khs
+4. Delete Data KHS
+5. Exit
+Pilih : 4
+Data Mahasiswa Kosong 
+
+1. Input Data Khs
+2. Show Data Khs
+3. Update Data Khs
+4. Delete Data KHS
+5. Exit
+Pilih :
